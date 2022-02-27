@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brave newes from Ireland: of a remarkable battle fought by the trained band of the citie of Dublin, against six regiments of the rebels, capta[i]n Hursey being chief commander, Feb. the 5, 1641. Which battle has caused many of the rebels to revolt to the Protestants. With, the description of a valiant battle, performed by Captain Maggay, on the sixth of Feb. against divers of the rebels in the harbor of Dublin, with many other remarkable passages, and renowned exploits by the English Protestatns [sic] the last two weeks. As it was taken out of a letter sent to the Lady Knevit dwelling in Lincolns-Inne fields. Feb. 7. 1641. Here also is related the great overthrow given to Captain Maggrave by the English, with the number of them that were slain. Brought over the last post, being the latest newes which came from Ireland. Whereunto is annexed, a petition which came from Ireland.</title>
+            <author>Hursey, Roger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86922</idno>
+            <idno type="STC">Wing H3789</idno>
+            <idno type="STC">Thomason E135_18</idno>
+            <idno type="STC">ESTC R2821</idno>
+            <idno type="EEBO-CITATION">99872192</idno>
+            <idno type="PROQUEST">99872192</idno>
+            <idno type="VID">156438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156438)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brave newes from Ireland: of a remarkable battle fought by the trained band of the citie of Dublin, against six regiments of the rebels, capta[i]n Hursey being chief commander, Feb. the 5, 1641. Which battle has caused many of the rebels to revolt to the Protestants. With, the description of a valiant battle, performed by Captain Maggay, on the sixth of Feb. against divers of the rebels in the harbor of Dublin, with many other remarkable passages, and renowned exploits by the English Protestatns [sic] the last two weeks. As it was taken out of a letter sent to the Lady Knevit dwelling in Lincolns-Inne fields. Feb. 7. 1641. Here also is related the great overthrow given to Captain Maggrave by the English, with the number of them that were slain. Brought over the last post, being the latest newes which came from Ireland. Whereunto is annexed, a petition which came from Ireland.</title>
+                  <author>Hursey, Roger.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: Roger Hursey.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beecher, Henry, --  Gent --  Early works to 1800.</term>
+               <term>Maggay, --  Captain --  Early works to 1800.</term>
+               <term>Maggrave, --  Captain --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156438:1"/>
+            <!-- PDF PAGE 47 -->
+            <pb facs="tcp:156438:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <p>BRAVE NEWES FROM IRELAND: <hi>OF A</hi> REMARKABLE BATTLE FOUGHT by the Trained-Band of the Citie of <hi>Dublin,</hi> againſt ſix Regiments of the Rebels, Capta<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Hurſey</hi> being chief Commander, <hi>Feb.</hi> the 5, 1641. Which Battle has cauſed many of the Rebels to revolt to the Proteſtants.</p>
+            <p>
+               <hi>WITH,</hi> The Deſcription of a valiant battle, performed by Captain <hi>Maggay,</hi> on the ſixth of <hi>Feb.</hi> againſt divers of the Rebels in <hi>the Harbor of Dublin, with many other Remarkable Paſſages, and Renowned Exploits by the Engliſh Proteſtants the laſt two weeks. As it was taken out of a Letter ſent to the Lady</hi> Knevit <hi>dwelling in</hi> Lincolns-Inne fields. <hi>Feb.</hi> 7. 1641.</p>
+            <p>Here alſo is related the great Overthrow given to Captain <hi>Maggrave</hi> by the Engliſh, with the number of them that were ſlain.</p>
+            <p>
+               <hi>Brought over by the laſt Poſt, being the lateſt Newes which came from IRELAND.</hi>
+            </p>
+            <p>Whereunto is annexed, a Petition which came from <hi>Ireland.</hi>
+            </p>
+            <p>LONDON. Printed for <hi>I.G.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156438:2"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:156438:2"/>
+            <!-- PDF PAGE 48 -->
+            <head>BRAVE NEWES FROM IRELAND.</head>
+            <opener>
+               <salute>Good Madam,</salute>
+            </opener>
+            <p>I Cannot do no leſſe for the former ingagements, the which I am ingaged unto your <hi>Ladyſhip,</hi> but to let you underſtand of the great dangers which I do fear we have run our ſelves into; I could have wiſhed that we had kept our ſelves at <hi>London</hi> to our ſtudies, and have followed the Law, and not the ſword, but only we were expulſt from all the Innes of Court there, and having no liberty at all, did force us to take this way in hand, to gain to our ſelves imployments, but I fear we have gone the wrong way to work in ſo doing; for if you and others do not make ſome ſpeed to ſend us relief, we ſhall be utterly ruinated for ever; we thought when that we told your Ladiſhip of this deſigne, that we ſhould have overcome them, and have wrought our deſires in the interim; but now I fear it will not come to paſſe, becauſe we have had a great over<g ref="char:EOLhyphen"/>throw
+<pb facs="tcp:156438:3"/>
+               <!-- PDF PAGE 49 -->
+by the <hi>Engliſh proteſtants,</hi> Inſomuch that it hath diſmaied our men, and made them revolt from us, becauſe that we had a repulſe from <hi>Dublin,</hi> after we had got into the Town, by the help of ſome Ca<g ref="char:EOLhyphen"/>tholicks that lived in the Town, which brake down an old door in the Town wall, and ſo we got in, and were advanced in the ſtreets before the alarum was given, but we were ſoon diſcovered, and loſt 600, of our men in the fight, where wee thought to have had the beſt of it, wee had the worſt: but the next day being reſolved to recover our ſelves again, ſeeing an Engliſh ſhip ſtrike on the ground in the harbor neer unto us, ſo that we fell upon her, accounting her our own; becauſe we thought that ſhee was not able to help her ſelf with her ordinance, but onely with a few muskets, the which our men ſeeing of it, they ſhot at them ſomwhat thick, and afterwards waded into the water to her, being not deep to board her, and appriſe her, and to take the <hi>Engliſh</hi> priſo<g ref="char:EOLhyphen"/>ners. But the Captain of the ſhip being ſomewhat ſtout-hearted, and weighed not what our men did at him, till he ſaw his own time; but after he had got ſo many together as he thought good of, and our men looking when he would yeeld to them, ſud<g ref="char:EOLhyphen"/>dainly he finding no wayes to relieve him, and cleer himſelf of us, he threw out Granadoes of fire upon us, and killed a hundred of our men, and ſeeing that we had loſt ſo many men, we were forced to leave the ſhip with the loſſe of them, and venter no fur<g ref="char:EOLhyphen"/>ther that day.</p>
+            <pb facs="tcp:156438:3"/>
+            <!-- PDF PAGE 49 -->
+            <p>But the next day, Captain <hi>Maggrave</hi> having ſome intelligence from a kinſman of his, which li<g ref="char:EOLhyphen"/>ved in <hi>Tredath,</hi> concerning the deſigne of the En<g ref="char:EOLhyphen"/>gliſh, which did make us draw up our forces thi<g ref="char:EOLhyphen"/>ther the next day, in hope to recover our ſelves again of our former loſſes, but the Engliſh did ſoon deſcrie us, and gave us a greater overthrow then we had before, with loſſe of men and ammunition and proviſion, ſo that we were driven back by force to take the Woods for our relief, untill ſome aid came into us.</p>
+            <p>Good Madam, I pray have me commended to my Father <hi>Jackſon,</hi> and tell him that I would not have him come over as yet, although we have a want of him and ſome others, untill he doth hear from me again with better newes, and that ſhall be as ſoon as poſsible I can with all convenience, for all the Prieſts and Friers that are taken here by the Engliſh, they are worſe uſed here then there, for the Engliſh officers have taken fiftie Friers and Prieſts, and hanged them all in one day, O horrid and bloody ſight to ſee ſo many good and holy men cut off in one day without mercie, or any time of repentance, the which did make us to be amazed to ſee it, and could not in no wayes help them. O that our holy father would ſend us ſome relief in this our need, we do expect to have ſome from <hi>Spain</hi> very ſuddenly, if they be not hindred by the Engliſh on the ſeas.</p>
+            <p>We have ſent unto <hi>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rance</hi> to deſire ſome ayde from them with all ſpeed, for that which was ſent laſt unto us, was taken by the way, ſo that
+<pb facs="tcp:156438:4"/>
+               <!-- PDF PAGE 50 -->we are in great want; for we do hear, that there is great preparation made in <hi>England,</hi> and to bee ſent over againſt us, with the help of the Scottiſh men on the other ſide: ſo that they do keep us in on eve<g ref="char:EOLhyphen"/>ry ſide, the which doth make us to deſire aid from out brethren, to defend us in our deſign.</p>
+            <p>Madam, I hope when you are at your devotion, that you wil think of us, which doe ſtand to defend you and all the reſt of our brethren and ſiſters here, and make way for relief for you, and all the reſt which are to come over; therefore you might have that good devotion in you, to ſhew your forward<g ref="char:EOLhyphen"/>neſſe above others, to bring this work to paſſe, as to move the fathers to have another collection among you the ſooner for our relief; or elſe we ſhall be in want of moneyes, if it be not ſent over very ſpeedily and by ſome ſure and private meſſenger: or elſe it will be intercepted by the way, as other things have bin before. So deſiring you to ſhew this Letter unto ſome of our truſty friends, to move them to this good work: I do take my leave of you, and reſt,</p>
+            <closer>
+               <signed>Yours to command,
+Roger Hurſey.</signed>
+               <dateline>From our Camp neer <hi>Dublin,</hi> 
+                  <date>Feb. the 7. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156438:4"/>
+            <!-- PDF PAGE 50 -->
+            <head>TO THE HONOURABLE THE Houſe of Commons now Aſsem<g ref="char:EOLhyphen"/>bled in <hi>PARLIAMENT.</hi>
+            </head>
+            <head type="sub">
+               <hi>The humble Petition of</hi> Henry Beecher <hi>Gent, who hath formerly Petitioned this Houſe in the behalf of the Inhabitants in Baltamore, Caſtle-Haven, and Crook-Haven, in</hi> Ireland.</head>
+            <opener>H<g ref="char:V">Ʋ</g>MBLY SHEWETH,</opener>
+            <p>THat your petitioner being poſſeſt of divers Lands, to the cleer yeerly value of 180. l. in the pariſh of <hi>Aphadown,</hi> within three miles of <hi>Baltamore:</hi> together with divers cattle and other goods, was by night ſuddenly aſſaulted in his houſe by ſome hundreds of thoſe fierce and bloody rebels; That your petitioner having ſome maskets and o<g ref="char:EOLhyphen"/>ther ammunition, and having by (accident) notice of their comming, did call in his Tenants, to the number of 20, and did there ſtand upon his guard, and in defence of himſelf and family, did kill one of the <hi>Cartis,</hi> a Gent. the leader of thoſe Rebels, and hurt ſome others, and repulſt them from his houſe,
+<pb facs="tcp:156438:5"/>
+               <!-- PDF PAGE 51 -->whereupon <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> next day they gathered together <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> greater numbers, and vowed the revenge of their Captains blood, by the death of your petitioner and his whole family. Of which paſſages, your peti<g ref="char:EOLhyphen"/>tioner receiving notice and information, and the enemy being within ſight of his houſe, was forced wife, children, and ſervants, one by one, for fear of being diſcovered, to depart from his ſaid habita<g ref="char:EOLhyphen"/>tion, leaving his lands, goods and eſtate unto the Rebels, who purſued your petitioner to <hi>Baltamore,</hi> but by the providence of God, your Petitioner hath eſcaped into England, but hath not wherewithall to maintain his family.</p>
+            <p>
+               <hi>The Premiſes conſidered, your Petitioner humbly beſeecheth this Honourable Aſſembly, that be may be employed in his Maieſties ſervice in theſe parts, being born and bred there all his life, and acquainted with the diſpoſitions of the people.</hi>
+            </p>
+            <closer>And your Petitioner ſhall pray, &amp;c.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
